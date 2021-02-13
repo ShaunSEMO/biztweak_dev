@@ -79,7 +79,7 @@
 						</div>
 						<!--- consultant code input -->
                         <div id="code" class="form-input">
-                            <input type="hidden" name="consultant_code" value="biz845"/>
+                            <input type="text" name="consultant_code" value=""/>
                         </div>
 						<button type="submit" class="signup-button btn btn-primary btn-lg btn-block">sign up</button>
 
