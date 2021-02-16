@@ -78,9 +78,11 @@
 						  </label>
 						</div>
 						<!--- consultant code input -->
-                        <div id="code" class="form-input">
-                            <input type="text" name="consultant_code" value=""/>
+						<br>
+						<div id="code" class="form-input">
+                        	<input type="text" name="consultant_code" value="" placeholder="biz1236"/>
                         </div>
+						<br>
 						<button type="submit" class="signup-button btn btn-primary btn-lg btn-block">sign up</button>
 
 					</form>
